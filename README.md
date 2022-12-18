@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot Intro component with sign up form](./screenshot.jpg)
+![Screenshot Intro component with sign up form](https://github.com/Marchino5791/Frontend-Mentor-Intro-Component-With-Sign-Up-Form/blob/main/Screenshot.png)
 
 ### Links
 
